@@ -1,0 +1,9 @@
+.top-bar {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background: #fff;
+    z-index: 35;
+    margin-bottom: 2rem;
+}

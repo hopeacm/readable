@@ -1,0 +1,10 @@
+.comment,
+.comment-list,
+.comment-list h1 {
+    margin-bottom: 2rem;
+}
+
+
+.comment .action {
+    text-decoration: underline;
+}

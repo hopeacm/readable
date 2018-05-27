@@ -1,0 +1,18 @@
+.app {
+    padding: 0 1rem;
+}
+
+.main-footer {
+    padding: 5rem 0;
+}
+
+
+.hr {
+    margin: 5rem 0;
+}
+
+
+.textarea {
+    overflow: auto;
+    resize: none;
+}

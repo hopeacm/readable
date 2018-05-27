@@ -1,0 +1,12 @@
+.post-detail {
+    margin-bottom: 2rem;
+}
+
+.post-detail-content .header,
+.post-detail-content .subheader-1 {
+    margin-bottom: 0.5rem;
+}
+
+.post-detail-content .subheader-2 {
+    margin-bottom: 2rem;
+}

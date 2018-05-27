@@ -1,0 +1,8 @@
+.message .message-list {
+    padding: 0.5rem;
+}
+
+
+.message .message:not(:last-child) {
+    margin-bottom: 0.5rem;
+}

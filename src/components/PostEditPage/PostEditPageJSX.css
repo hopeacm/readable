@@ -1,0 +1,6 @@
+.post-edit h1:last-of-type,
+.post-edit .select-field,
+.post-edit .text-field,
+.post-edit .textarea-field {
+    margin-bottom: 2.5rem;
+}

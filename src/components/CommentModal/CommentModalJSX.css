@@ -1,0 +1,12 @@
+.comment-modal .message,
+.comment-modal h1,
+.comment-modal .text-field,
+.comment-modal .textarea-field {
+    margin-bottom: 1.5rem;
+}
+
+
+.comment-modal .modal-content {
+    background: white;
+    padding: 2.5rem;
+}
