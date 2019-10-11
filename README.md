@@ -1,7 +1,6 @@
 # Readable Project
 
 Readable Project provides a blog-based interface that allows a user to post and comment his or her own blog. All the blogs are organized into the following three categories:
-*
 * React
 * Redux
 * Udacity
